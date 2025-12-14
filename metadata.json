@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Agent",
+  "description": "A secure, client-side AI agent powered by Google Gemini API. Features multiple personalities, markdown support, and persistent local storage.",
+  "requestFramePermissions": []
+}
